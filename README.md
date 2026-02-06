@@ -143,12 +143,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshGupta007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+ 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshGupta007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
 
@@ -220,6 +216,6 @@
 <p align="center">
   <i>"The goal is to turn data into information, and information into insight." - Carly Fiorina</i>
 </p>
-```
+
 
 ---
