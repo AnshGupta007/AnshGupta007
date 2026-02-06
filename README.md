@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/stars/AnshGupta007?label=Stars&style=social" alt="GitHub stars"/>
   </a>
 </p>
-
+```
 ---
 
 ## 👨‍💻 About Me
