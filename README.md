@@ -39,19 +39,19 @@
 
 <br>
 
-### 👋 Hey there! I'm Ansh
+### Hey there! I'm Ansh
 
 > *"Transforming pixels into perception, and data into decisions."*
 
 <br>
 
-🎯 **Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems. Strong foundation in problem solving and hands-on experience building reliable systems.
+**Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems. Strong foundation in problem solving and hands-on experience building reliable systems.
 
 <table>
 <tr>
 <td>
 
-🔭 **Currently Working On**
+  **Currently Working On**
 </td>
 <td>
 
@@ -61,7 +61,7 @@ Deep Learning and Machine Learning project
 <tr>
 <td>
 
-🧠 **Specialization**
+ **Specialization**
 </td>
 <td>
 
@@ -71,7 +71,7 @@ Computer Vision, Deep Learning, Machine Learning
 <tr>
 <td>
 
-🌱 **Learning**
+ **Learning**
 </td>
 <td>
 
@@ -81,7 +81,7 @@ LLMs, Generative AI
 <tr>
 <td>
 
-💬 **Ask Me About**
+ **Ask Me About**
 </td>
 <td>
 
@@ -91,11 +91,11 @@ SLAM, Deep Learning, MLOps, Python, C++, Machine Learning
 <tr>
 <td>
 
-📍 **Location**
+ **Location**
 </td>
 <td>
 
-India 🇮🇳
+India
 </td>
 </tr>
 </table>
@@ -186,7 +186,7 @@ India 🇮🇳
 
 
 
-📌 Highlighted Work
+ Highlighted Work
 <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🤖-SLAM-blue?style=for-the-badge"/> <h3>ORB-SLAM3</h3> <p><b>Visual-Inertial SLAM System</b></p> <p>Real-time Simultaneous Localization and Mapping using monocular, stereo, and RGB-D cameras with IMU integration. Supports visual-inertial odometry for robust tracking in challenging environments.</p> <p> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Eigen-0865A6?style=flat-square&logo=eigen&logoColor=white"/> <img src="https://img.shields.io/badge/Pangolin-4B8BBE?style=flat-square&logo=python&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/ORB-SLAM3"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> </p> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/👁️-Depth-green?style=for-the-badge"/> <h3>Depth Anything</h3> <p><b>Monocular Depth Estimation</b></p> <p>State-of-the-art monocular depth estimation model capable of producing high-quality depth maps from single RGB images. Trained on large-scale datasets for robust zero-shot generalization across diverse scenes.</p> <p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/DINOv2-412991?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/Depth-Anything"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a> </p> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🏥-Medical-red?style=for-the-badge"/> <h3>Kidney Disease Classification</h3> <p><b>Tumor Detection using Deep Learning</b></p> <p>CNN-based classification system to detect presence of tumors in kidney CT scans. Implements transfer learning with VGG16/ResNet architecture achieving high accuracy for early diagnosis support.</p> <p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/Kidney-Disease-Classification"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a> </p> </td> </tr> </table>
 
 
@@ -205,7 +205,7 @@ India 🇮🇳
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
  
@@ -249,7 +249,7 @@ India 🇮🇳
 
 ---
 
-## 💡 Random Dev Quote
+##  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -257,7 +257,7 @@ India 🇮🇳
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnshGupta007/AnshGupta007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
