@@ -33,8 +33,8 @@
 </p>
 
 ---
-```python
-## 👨‍💻 About Me
+
+##  About Me
 
 class MLEngineer:
     def __init__(self):
@@ -48,21 +48,21 @@ class MLEngineer:
 
 me = MLEngineer()
 me.say_hi()
-```
+
 
 <img align="right" alt="ML Animation" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-- 🔬 **Specialization:** Deep Learning, NLP, Computer Vision
-- 🧠 **Currently Exploring:** Large Language Models (LLMs) & Generative AI
-- 📊 **Experience:** End-to-end ML pipeline development & deployment
-- 🏆 **Achievements:** Kaggle Competitions | Research Publications
-- 💡 **Passionate About:** Solving real-world problems with AI
-- 📫 **Reach me at:** anshgupta@email.com
-- ⚡ **Fun Fact:** I speak fluent Python and broken Binary!
+-  **Specialization:** Deep Learning, NLP, Computer Vision
+-  **Currently Exploring:** Large Language Models (LLMs) & Generative AI
+-  **Experience:** End-to-end ML pipeline development & deployment
+-  **Achievements:** Kaggle Competitions | Research Publications
+-  **Passionate About:** Strong foundation in problem-solving and hands-on experience building reliable systems.
+-  **Reach me at:** bharatiansh@gmail.com
+
 
 ---
 
-## 🎯 Expertise Areas
+##  Expertise Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-NLP-blue?style=for-the-badge&logo=dialogflow&logoColor=white"/>
@@ -75,9 +75,9 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🤖 Machine Learning & Deep Learning
+###  Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -86,20 +86,20 @@ me.say_hi()
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
 
-### 🗣️ NLP & LLMs
+###  NLP & LLMs
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
 
-### 👁️ Computer Vision
+###  Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Data Science & Analytics
+###  Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -107,7 +107,7 @@ me.say_hi()
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### ☁️ Cloud & MLOps
+###  Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -116,14 +116,14 @@ me.say_hi()
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
-### 🗄️ Databases & Big Data
+###  Databases & Big Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 Development Tools
+###  Development Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -133,31 +133,22 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/AnshGupta007/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshGupta007&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/AnshGupta007/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshGupta007&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-  </a>
-</p>
 
-### 📌 Highlighted Work
+📌 Highlighted Work
+<table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🤖-SLAM-blue?style=for-the-badge"/> <h3>ORB-SLAM3</h3> <p><b>Visual-Inertial SLAM System</b></p> <p>Real-time Simultaneous Localization and Mapping using monocular, stereo, and RGB-D cameras with IMU integration. Supports visual-inertial odometry for robust tracking in challenging environments.</p> <p> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Eigen-0865A6?style=flat-square&logo=eigen&logoColor=white"/> <img src="https://img.shields.io/badge/Pangolin-4B8BBE?style=flat-square&logo=python&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/ORB-SLAM3"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> </p> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/👁️-Depth-green?style=for-the-badge"/> <h3>Depth Anything</h3> <p><b>Monocular Depth Estimation</b></p> <p>State-of-the-art monocular depth estimation model capable of producing high-quality depth maps from single RGB images. Trained on large-scale datasets for robust zero-shot generalization across diverse scenes.</p> <p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/DINOv2-412991?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/Depth-Anything"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a> </p> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🏥-Medical-red?style=for-the-badge"/> <h3>Kidney Disease Classification</h3> <p><b>Tumor Detection using Deep Learning</b></p> <p>CNN-based classification system to detect presence of tumors in kidney CT scans. Implements transfer learning with VGG16/ResNet architecture achieving high accuracy for early diagnosis support.</p> <p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/Kidney-Disease-Classification"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a> </p> </td> </tr> </table>
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🤖 **LLM Chatbot** | RAG-based conversational AI using LangChain | LangChain, OpenAI, FAISS, Streamlit | [Repo](#) • [Demo](#) |
-| 👁️ **Object Detection System** | Real-time object detection with YOLOv8 | PyTorch, YOLOv8, OpenCV, FastAPI | [Repo](#) • [Demo](#) |
-| 📝 **Sentiment Analyzer** | Multi-class sentiment analysis for social media | Transformers, BERT, HuggingFace | [Repo](#) • [Demo](#) |
-| 📈 **Stock Price Predictor** | Time series forecasting using LSTM | TensorFlow, Keras, Prophet | [Repo](#) • [Demo](#) |
-| 🏥 **Medical Image Classifier** | CNN-based disease detection from X-rays | PyTorch, ResNet, Grad-CAM | [Repo](#) • [Demo](#) |
-| 🎯 **Recommendation Engine** | Collaborative filtering + content-based hybrid | Scikit-learn, Surprise, AWS | [Repo](#) • [Demo](#) |
+--- 
+🔍 Project Details
+Project	Description	Key Features	Metrics
+🤖 ORB-SLAM3	Visual-inertial SLAM system for real-time camera localization and 3D mapping	• Multi-sensor support (Mono/Stereo/RGB-D + IMU) <br> • Loop closing & relocalization <br> • Map reuse & multi-session mapping <br> • Real-time performance	< 1cm trajectory error
+👁️ Depth Anything	Foundation model for monocular depth estimation with zero-shot generalization	• Single image depth prediction <br> • Multi-scale feature extraction <br> • Metric & relative depth output <br> • Edge-aware predictions	0.98 δ1 accuracy
+🏥 Kidney Disease Classification	Deep learning model for kidney tumor detection from CT scan images	• Binary classification (Tumor/Normal) <br> • Transfer learning (VGG16/ResNet) <br> • End-to-end MLOps pipeline <br> • Model versioning with DVC	96%+ accuracy
+
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -180,17 +171,10 @@ me.say_hi()
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshGupta007&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshGupta007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
@@ -199,7 +183,7 @@ me.say_hi()
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anshgupta">
@@ -211,15 +195,12 @@ me.say_hi()
   <a href="https://huggingface.co/AnshGupta007">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-  <a href="https://twitter.com/anshgupta">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+
   </a>
   <a href="mailto:anshgupta@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://medium.com/@anshgupta">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+
   <a href="https://scholar.google.com/citations?user=YOUR_ID">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
