@@ -99,7 +99,7 @@ India 🇮🇳
 </td>
 </tr>
 </table>
----
+
 
 <img align="right" alt="ML Animation" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
@@ -110,6 +110,7 @@ India 🇮🇳
 -  **Passionate About:** Strong foundation in problem-solving and hands-on experience building reliable systems.
 -  **Reach me at:** bharatiansh@gmail.com
 
+---
 
 
 ##  Expertise Areas
