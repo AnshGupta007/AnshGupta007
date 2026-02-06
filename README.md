@@ -45,7 +45,7 @@
 
 <br>
 
-🎯 **Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems.
+🎯 **Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems. Strong foundation in problem solving and hands-on experience building reliable systems.
 
 <table>
 <tr>
@@ -55,7 +55,7 @@
 </td>
 <td>
 
-Visual SLAM & 3D Reconstruction
+Deep Learning and Machine Learning project
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ Visual SLAM & 3D Reconstruction
 </td>
 <td>
 
-Computer Vision, Depth Estimation, Medical AI
+Computer Vision, Deep Learning, Machine Learning
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ Computer Vision, Depth Estimation, Medical AI
 </td>
 <td>
 
-LLMs, Generative AI, Neural Radiance Fields
+LLMs, Generative AI
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ LLMs, Generative AI, Neural Radiance Fields
 </td>
 <td>
 
-SLAM, Deep Learning, MLOps, Python, C++
+SLAM, Deep Learning, MLOps, Python, C++, Machine Learning
 </td>
 </tr>
 <tr>
@@ -98,8 +98,6 @@ SLAM, Deep Learning, MLOps, Python, C++
 India 🇮🇳
 </td>
 </tr>
-<tr>
-<td>
 </table>
 ---
 
