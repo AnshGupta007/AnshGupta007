@@ -100,7 +100,7 @@ India 🇮🇳
 </tr>
 <tr>
 <td>
-
+</table>
 ---
 
 <img align="right" alt="ML Animation" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
