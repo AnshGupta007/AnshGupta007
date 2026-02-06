@@ -33,7 +33,7 @@
 </p>
 
 ---
-
+```python
 ## 👨‍💻 About Me
 
 class MLEngineer:
@@ -48,7 +48,7 @@ class MLEngineer:
 
 me = MLEngineer()
 me.say_hi()
-
+```
 
 <img align="right" alt="ML Animation" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
