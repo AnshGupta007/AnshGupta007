@@ -111,7 +111,6 @@ India 🇮🇳
 -  **Reach me at:** bharatiansh@gmail.com
 
 
----
 
 ##  Expertise Areas
 
