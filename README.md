@@ -34,20 +34,6 @@
 
 ---
 
-##  About Me
-
-class MLEngineer:
-    def __init__(self):
-        self.name = "Ansh Gupta"
-        self.role = "Machine Learning Engineer"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "SQL", "R"]
-        
-    def say_hi(self):
-        print("Thanks for visiting! Let's build AI that makes a difference!")
-
-me = MLEngineer()
-me.say_hi()
 
 
 <img align="right" alt="ML Animation" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
@@ -138,12 +124,6 @@ me.say_hi()
 📌 Highlighted Work
 <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🤖-SLAM-blue?style=for-the-badge"/> <h3>ORB-SLAM3</h3> <p><b>Visual-Inertial SLAM System</b></p> <p>Real-time Simultaneous Localization and Mapping using monocular, stereo, and RGB-D cameras with IMU integration. Supports visual-inertial odometry for robust tracking in challenging environments.</p> <p> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Eigen-0865A6?style=flat-square&logo=eigen&logoColor=white"/> <img src="https://img.shields.io/badge/Pangolin-4B8BBE?style=flat-square&logo=python&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/ORB-SLAM3"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> </p> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/👁️-Depth-green?style=for-the-badge"/> <h3>Depth Anything</h3> <p><b>Monocular Depth Estimation</b></p> <p>State-of-the-art monocular depth estimation model capable of producing high-quality depth maps from single RGB images. Trained on large-scale datasets for robust zero-shot generalization across diverse scenes.</p> <p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/DINOv2-412991?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/Depth-Anything"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a> </p> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🏥-Medical-red?style=for-the-badge"/> <h3>Kidney Disease Classification</h3> <p><b>Tumor Detection using Deep Learning</b></p> <p>CNN-based classification system to detect presence of tumors in kidney CT scans. Implements transfer learning with VGG16/ResNet architecture achieving high accuracy for early diagnosis support.</p> <p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> </p> <p> <a href="https://github.com/AnshGupta007/Kidney-Disease-Classification"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a> </p> </td> </tr> </table>
 
---- 
-🔍 Project Details
-Project	Description	Key Features	Metrics
-🤖 ORB-SLAM3	Visual-inertial SLAM system for real-time camera localization and 3D mapping	• Multi-sensor support (Mono/Stereo/RGB-D + IMU) <br> • Loop closing & relocalization <br> • Map reuse & multi-session mapping <br> • Real-time performance	< 1cm trajectory error
-👁️ Depth Anything	Foundation model for monocular depth estimation with zero-shot generalization	• Single image depth prediction <br> • Multi-scale feature extraction <br> • Metric & relative depth output <br> • Edge-aware predictions	0.98 δ1 accuracy
-🏥 Kidney Disease Classification	Deep learning model for kidney tumor detection from CT scan images	• Binary classification (Tumor/Normal) <br> • Transfer learning (VGG16/ResNet) <br> • End-to-end MLOps pipeline <br> • Model versioning with DVC	96%+ accuracy
 
 
 ---
@@ -151,11 +131,11 @@ Project	Description	Key Features	Metrics
 ##  Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-FF9900?style=for-the-badge&logo=coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Specialization-00A3E0?style=for-the-badge&logo=coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stanford-Machine%20Learning-B31B1B?style=for-the-badge&logo=stanford&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Developer%20Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
 
 ---
