@@ -36,7 +36,6 @@
 
 ## 👨‍💻 About Me
 
-```python
 class MLEngineer:
     def __init__(self):
         self.name = "Ansh Gupta"
@@ -49,7 +48,7 @@ class MLEngineer:
 
 me = MLEngineer()
 me.say_hi()
-```
+
 
 <img align="right" alt="ML Animation" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
