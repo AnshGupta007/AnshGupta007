@@ -101,7 +101,7 @@ India
 </table>
 
 
-<img align="right" alt="ML Animation" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+<img align="right" alt="ML Animation" width="260" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 -  **Specialization:** Deep Learning, NLP, Computer Vision
 -  **Currently Exploring:** Large Language Models (LLMs) & Generative AI
