@@ -209,14 +209,11 @@ India
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnshGupta007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  
   <img width="49%" src="https://streak-stats.demolab.com/?user=AnshGupta007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Top Languages Card -->
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnshGupta007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-</p>
+
 
 
 ---
